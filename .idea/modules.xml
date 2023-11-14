@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projeto_Quarkus_Entregar.iml" filepath="$PROJECT_DIR$/.idea/Projeto_Quarkus_Entregar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-rest-produto/api-rest-produto.iml" filepath="$PROJECT_DIR$/api-rest-produto/api-rest-produto.iml" />
+    </modules>
+  </component>
+</project>
